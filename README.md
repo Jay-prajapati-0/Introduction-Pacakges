@@ -1,2 +1,2 @@
-# Introduction-Pacakges
+# Introduction-Packages
 🔢Numpy | 📊Matplotlib | 🐼Pandas
